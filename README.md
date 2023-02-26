@@ -14,7 +14,7 @@ This radar use Ultrasonic distance measuring SR04 and servo motor SG90 control b
 ## Wiring diagram
 
 <p align="left">
-  <img src="./picture/Radar.jpg" alt="accessibility text">
+  <img src="./picture/Radar.png" alt="accessibility text">
 </p>
 
 ## Real project 
