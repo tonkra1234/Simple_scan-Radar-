@@ -20,7 +20,7 @@ This radar use Ultrasonic distance measuring SR04 and servo motor SG90 control b
 </p>
 
 ### Result
-
+![alt text](https://i.ibb.co/ygM8F09/result.jpg)
 <p align="left">
   <img src="https://i.ibb.co/ygM8F09/result.jpg" alt="accessibility text">
 </p>
